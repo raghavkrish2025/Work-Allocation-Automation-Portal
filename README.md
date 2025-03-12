@@ -1,4 +1,4 @@
-# Work-Allocation-Automation-Portal
+# Work Allocation Automation Portal
 
 - This project was created for Webathon'22 by the Flask team
 - It includes an admin or faculty login, a dashboard that can be viewed in dark mode, and backend functionalities
